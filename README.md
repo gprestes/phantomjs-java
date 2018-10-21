@@ -1,2 +1,2 @@
 # phantomjs-java8
-Docker image with Java 8 and phantomjs
+Docker image with Java 8, phantomjs, and gauge
